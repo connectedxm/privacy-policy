@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# ConnectedXM Privacy Policy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. Introduction
 
-## Available Scripts
+ConnectedXM ("we", "us", "our") values the privacy of all users ("user", "you", "your") who engage with our applications and services. This Privacy Policy sets forth our commitment and outlines our practices with respect to managing your personal information. It explains the types of information we collect, how we use and protect this information, and the choices you can make about how your information is used and shared.
 
-In the project directory, you can run:
+## 2. Information Collection and Use
 
-### `npm start`
+We collect and process personal data that you voluntarily provide to us, information collected through third parties, and data collected via cookies and other tracking technologies. This data may include, but is not limited to, your email address, phone number, name, physical address, bio, social links, and device information for the purpose of sending notifications. We process this data to facilitate in-person experiences, provide you with relevant notifications, and to enable you to maintain a social account on our platform.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 3. Data Sharing and Disclosure
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect. While we do not engage in the sale of your personal information, we may share your information with our clients using our white label solution. This is done to support the operation of the online communities and social platforms. We will not share your personal data with any other third parties unless we obtain your express consent or are compelled by law to do so.
 
-### `npm test`
+## 4. Data Retention
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. In some circumstances, you can ask us to delete your data; please see the User Rights section below for further information.
 
-### `npm run build`
+## 5. Security
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Your data security is of utmost importance to us. We have implemented appropriate technical and organizational measures to ensure a level of security appropriate to the risk, including encryption, SSL, and adherence to best practices in security protocols.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 6. User Rights
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You possess certain rights with respect to your personal information under applicable law. You have the right to access, modify, or delete your personal information at any time. All personal information can be modified from within your account. Historical transactional information cannot be deleted unless specifically requested.
 
-### `npm run eject`
+## 7. Communications
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Unless users expressly opt into our newsletter, all emails from ConnectedXM are transactional in nature. Users can unsubscribe from our newsletter at any time by following the unsubscribe instructions contained in each of our communications.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 8. User-Generated Content Disclaimer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+You understand and agree that when using ConnectedXM, you will be exposed to user-generated content from a variety of sources, and that ConnectedXM is not responsible for the accuracy, usefulness, safety, or intellectual property rights of or relating to such user-generated content.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ConnectedXM does not endorse any user-generated content or any opinion, recommendation, or advice expressed therein, and expressly disclaims any and all liability in connection with user-generated content.
 
-## Learn More
+You agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against ConnectedXM with respect to user-generated content.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The views and opinions expressed in user-generated content are those of the users and do not necessarily reflect the official policy or position of ConnectedXM. Any content provided by our users is of their opinion and not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 9. Children’s Privacy
 
-### Code Splitting
+ConnectedXM does not knowingly collect or solicit personal information from anyone under the age of 13 (or under the age of 16 for European Union residents) or knowingly allow such persons to register. If you believe that we might have any information from or about a child under the age specified, please contact us at support@connectedxm.com, and we will endeavour to delete that information as quickly as possible.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 10. Third-Party Links
 
-### Analyzing the Bundle Size
+Our service may contain links to third-party websites or services that are not owned or controlled by ConnectedXM. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that ConnectedXM shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 11. International Users
 
-### Making a Progressive Web App
+ConnectedXM is based in the United States and the information we collect is governed by U.S. law. If you are accessing the service from outside of the U.S., please be aware that information collected through the service will be transferred to, processed, and stored in the U.S. The data protection laws in the U.S. may be different from those of the country in which you are located. Your use of the service or providing us with any information therefore constitutes your consent to the transfer to, and processing, usage, sharing, and storage of your information in the U.S. as set out in this Privacy Policy.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 12. Data Breach Procedures
 
-### Advanced Configuration
+In the event of a data breach that affects your personal information, ConnectedXM will notify you and relevant authorities as required by applicable law. This notification will occur as soon as reasonably possible, considering the legitimate needs of law enforcement and any measures necessary to determine the scope of the breach and restore the integrity of our system.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 13. Dispute Resolution
 
-### Deployment
+Any dispute, controversy or claim arising out of or in connection to this Privacy Policy will be resolved through good faith negotiations. If such negotiations do not resolve the dispute, then it may be resolved by final and binding arbitration conducted in accordance with and subject to the Commercial Arbitration Rules of the American Arbitration Association ("AAA"). Unless otherwise agreed by the parties, arbitration will be held in [Your city, Your state], before a single arbitrator mutually agreed upon by the parties.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 14. Changes to this Privacy Policy
 
-### `npm run build` fails to minify
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 15. Contact Us
+
+If you have any questions, concerns, or complaints regarding this Privacy Policy, or if you wish to exercise your rights, please contact us at support@connectedxm.com.
+
+_Updated Last: Jan 01 2023_
